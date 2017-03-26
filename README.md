@@ -9,6 +9,8 @@ List of links that will help me learn English through the internet
 
 * [Duolingo](https://www.duolingo.com/) <br/>
 Learning with Duolingo is fun and addictive. Earn points for correct answers, race against the clock, and level up
+* [Lingualeo](https://lingualeo.com/) <br />
+The lingualeo is an funny mode of learn english online
 
 ## E-Books
 
