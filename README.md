@@ -24,6 +24,8 @@ Download or read englihs books online for free, categorized by levels (elementar
 
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) <br/>
 YouTube channel of a native american giving English tips.
+* [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
+Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
 ## Chrome Extensions
 
