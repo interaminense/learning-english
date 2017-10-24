@@ -8,6 +8,7 @@ Useful links that will help me (and probably you) to learn English through the I
 * [Chrome Extensions](#chrome-extensions)
 * [Blogs and Website](#blogs-and-website)
 * [Courses](#courses)
+* [Translators](#translators)
 
 ## Games
 
@@ -71,6 +72,10 @@ VocabSushi is for you to learn vocabulary with real-world, contextual examples f
 
 * [BBC Learn English](http://www.bbc.co.uk/learningenglish/) <br/>
 On the BBC Learning English website, you can learn grammar, vocabulary, pronunciation, and so on, you can take a test, you can also learn how to teach others English.
+
+## Translators
+
+* [DeepL](https://www.deepl.com/)
 
 * [Babelfish: Translator + Forum](https://www.babelfish.com/) <br/>
 Allows easy translations. Forum allows to disuss for sayings.
