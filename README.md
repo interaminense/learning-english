@@ -33,6 +33,9 @@ Download or read English books online for free, categorized by levels (elementar
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) <br/>
 YouTube channel of a native american giving English tips.
 
+* [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) <br/>
+Are you ready to have a lot of fun learning real life English with "Learn English with TV Series?"
+
 * [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
