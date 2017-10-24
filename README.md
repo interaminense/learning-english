@@ -43,8 +43,15 @@ Are you ready to have a lot of fun learning real life English with "Learn Englis
 * [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
-* [Learn English by Story] (https://www.youtube.com/watch?v=RyzXyddkNag) <br/>
+* [Learn English by Story](https://www.youtube.com/watch?v=RyzXyddkNag) <br/>
 Classic stories, with simplified grammar and vocabulary. You can follow the tapescript as the story goes along, so you can also learn the pronounciation.
+
+* [Mental_Floss episode on English Grammar](https://youtu.be/QEBOYOlROU8) <br/>
+a quick and easy to understand breakdown of some english grammar.
+
+* [Crash Course Youtube Channel](https://www.youtube.com/user/crashcourse) <br/>
+This channel not only has incredibly educational videos but they are easy to digest and helpful as a next step for learning english in a more complex set of situations.
+
 
 ## Chrome Extensions
 
