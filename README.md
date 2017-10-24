@@ -16,10 +16,13 @@ Learning with Duolingo is fun and addictive. Earn points for correct answers, ra
 * [Lingualeo](https://lingualeo.com/) <br />
 Lingualeo is a funny way to learn English online.
 
+* [Typeracer](http://play.typeracer.com) <br/>
+Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
+
 ## E-Books
 
 * [English E-books](http://english-e-books.net/) <br/>
-Download or read englihs books online for free, categorized by levels (elementary, pre-intermediate, intermediate, advanced...)
+Download or read English books online for free, categorized by levels (elementary, pre-intermediate, intermediate, advanced...)
 
 * [Como aprender Inglês o guia definitivo](http://www.mairovergara.com/adw-ebook-single-search/?utm_source=adwords&utm_campaign=adw-ebook&utm_medium=search&utm_term=%22como%20aprender%20ingles%20o%20guia%20definitivo%22&gclid=EAIaIQobChMIufmbrPqh1QIVAwaRCh1YTA-YEAAYASAAEgJDhvD_BwE#hero)
 
@@ -39,7 +42,7 @@ Your writing, at its best. Grammarly makes sure everything you type is clear, ef
 ## Blogs and Website
 
 * [Grammar Girl](http://www.quickanddirtytips.com/grammar-girl) <br/>
-Grammar Girl provides short, friendly tips to improve your writing. Covering the grammar rules and word choice guidelines that can confound even the best writers, 
+Grammar Girl provides short, friendly tips to improve your writing. Covering the grammar rules and word choice guidelines that can confound even the best writers,
 
 * [Perfect English Grammar](http://www.perfect-english-grammar.com/) <br/>
 Perfect English Grammar is one of the most reliable grammar website. It content notes and plenty of exercise related to them.
@@ -64,3 +67,4 @@ VocabSushi is for you to learn vocabulary with real-world, contextual examples f
 
 * [BBC Learn English](http://www.bbc.co.uk/learningenglish/) <br/>
 On the BBC Learning English website, you can learn grammar, vocabulary, pronunciation, and so on, you can take a test, you can also learn how to teach others English.
+
