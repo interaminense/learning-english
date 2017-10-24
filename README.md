@@ -5,6 +5,7 @@ Useful links that will help me (and probably you) to learn English through the I
 * [E-Books](#e-books)
 * [Videos](#videos)
 * [Chrome Extensions](#chrome-extensions)
+* [Blogs and Website](#blogs-website)
 
 ## Games
 
@@ -31,3 +32,18 @@ Neste canal você encontrará dicas sobre como aprender inglês de forma rápida
 
 * [Grammarly](https://www.grammarly.com/) <br/>
 Your writing, at its best. Grammarly makes sure everything you type is clear, effective, and mistake-free.
+
+## Blogs and Website
+
+* [Grammar Girl](http://www.quickanddirtytips.com/grammar-girl) <br/>
+Grammar Girl provides short, friendly tips to improve your writing. Covering the grammar rules and word choice guidelines that can confound even the best writers, 
+
+
+* [Perfect English Grammar](http://www.perfect-english-grammar.com/) <br/>
+Perfect English Grammar is one of the most reliable grammar website. It content notes and plenty of exercise related to them.
+
+* [British Council](https://learnenglish.britishcouncil.org/en/quick-grammar) <br/>
+The British Council has a long tradition of helping people around the world learn English, and their website contains everything from lessons, grammar explanations, and a glossary to games and apps. It’s an excellent resource for English language learners of all proficiency levels and from all walks of life.
+
+
+
