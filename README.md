@@ -1,3 +1,4 @@
+
 # Learning English :uk:
 Useful links that will help me (and probably you) to learn English through the Internet.
 
@@ -48,3 +49,22 @@ Perfect English Grammar is one of the most reliable grammar website. It content 
 
 * [British Council](https://learnenglish.britishcouncil.org/en/quick-grammar) <br/>
 The British Council has a long tradition of helping people around the world learn English, and their website contains everything from lessons, grammar explanations, and a glossary to games and apps. It’s an excellent resource for English language learners of all proficiency levels and from all walks of life.
+
+* [Ello](http://www.elllo.org/) <br/>
+Elllo focuses on your English listening skill. You can listen to speakers from all over the world for different topics, such as sports, travels, games, and so on. There is related text script under the audio player. You can also listen to some nice English songs or watch some videos.
+
+* [Fun Easy English](http://funeasyenglish.com/) <br/>
+Fun Easy English mainly focuses on the basic English knowledge and teaching tips, its courses include pronunciation, grammar, idioms, slang, writing, tests and much more. Most of those courses are launched in Video format, in addition with text scripts and pictures.
+
+* [Lang-8](http://lang-8.com/) <br/>
+Lang-8 focuses on writing in a foreign language. You write in the language that you are learning, then native speakers will correct your writing, and you can also help others learn your native language by correcting their writing.
+
+* [Busuu](https://www.busuu.com/en) <br/>
+For every language you choose to learn, Busuu provides a few courses, including writing exercises, vocabulary training, reading comprehension, and so on. Besides courses, you can also learn English online by joining the community and chatting with other members.
+
+* [VocabSushi](http://www.vocabsushi.com/) <br/>
+VocabSushi is for you to learn vocabulary with real-world, contextual examples found in the daily news. You pick up a vocab word, understand its means, read the sentence samples, listen to the speakers, then you can take a test and check if you have learned that word.
+
+* [BBC Learn English](http://www.bbc.co.uk/learningenglish/) <br/>
+On the BBC Learning English website, you can learn grammar, vocabulary, pronunciation, and so on, you can take a test, you can also learn how to teach others English.
+
