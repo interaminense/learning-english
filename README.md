@@ -11,6 +11,7 @@ Useful links that will help me (and probably you) to learn English through the I
 
 * [Duolingo](https://www.duolingo.com/) <br/>
 Learning with Duolingo is fun and addictive. Earn points for correct answers, race against the clock, and level up.
+
 * [Lingualeo](https://lingualeo.com/) <br />
 Lingualeo is a funny way to learn English online.
 
@@ -25,6 +26,7 @@ Download or read englihs books online for free, categorized by levels (elementar
 
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) <br/>
 YouTube channel of a native american giving English tips.
+
 * [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
@@ -37,7 +39,6 @@ Your writing, at its best. Grammarly makes sure everything you type is clear, ef
 
 * [Grammar Girl](http://www.quickanddirtytips.com/grammar-girl) <br/>
 Grammar Girl provides short, friendly tips to improve your writing. Covering the grammar rules and word choice guidelines that can confound even the best writers, 
-
 
 * [Perfect English Grammar](http://www.perfect-english-grammar.com/) <br/>
 Perfect English Grammar is one of the most reliable grammar website. It content notes and plenty of exercise related to them.
