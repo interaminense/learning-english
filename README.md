@@ -5,7 +5,7 @@ Useful links that will help me (and probably you) to learn English through the I
 * [E-Books](#e-books)
 * [Videos](#videos)
 * [Chrome Extensions](#chrome-extensions)
-* [Blogs and Website](#blogs-website)
+* [Blogs and Website](#blogs-and-website)
 
 ## Games
 
