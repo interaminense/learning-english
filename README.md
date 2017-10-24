@@ -7,6 +7,8 @@ Useful links that will help me (and probably you) to learn English through the I
 * [Videos](#videos)
 * [Chrome Extensions](#chrome-extensions)
 * [Blogs and Website](#blogs-and-website)
+* [Courses](#courses)
+* [Translators](#translators)
 
 ## Games
 
@@ -35,6 +37,9 @@ Download or read English books online for free, categorized by levels (elementar
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) <br/>
 YouTube channel of a native american giving English tips.
 
+* [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) <br/>
+Are you ready to have a lot of fun learning real life English with "Learn English with TV Series?"
+
 * [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
@@ -56,6 +61,9 @@ Perfect English Grammar is one of the most reliable grammar website. It content 
 
 * [British Council](https://learnenglish.britishcouncil.org/en/quick-grammar) <br/>
 The British Council has a long tradition of helping people around the world learn English, and their website contains everything from lessons, grammar explanations, and a glossary to games and apps. It’s an excellent resource for English language learners of all proficiency levels and from all walks of life.
+
+* [Agenda web](https://agendaweb.org/) <br/>
+Agenda Web.org you will find a lot of exercises of all the subjects of English: grammar, vocabulary, listening, reading, etc. An indispensable resource.
 
 * [Ello](http://www.elllo.org/) <br/>
 Elllo focuses on your English listening skill. You can listen to speakers from all over the world for different topics, such as sports, travels, games, and so on. There is related text script under the audio player. You can also listen to some nice English songs or watch some videos.
@@ -83,3 +91,24 @@ They offer many courses on different levels. The courses are created by teachers
 
 * [Tandem] (https://www.tandem.net/learn-english-online/) <br/>
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
+
+## Translators
+
+* [DeepL](https://www.deepl.com/)
+
+* [Babelfish: Translator + Forum](https://www.babelfish.com/) <br/>
+Allows easy translations. Forum allows to disuss for sayings.
+
+## Courses
+
+* [Coursera](https://es.coursera.org/)
+Free curses, section "learn language"
+
+* [Improve your communication skills in English](https://es.coursera.org/specializations/improve-english) <br/>
+Free course
+
+* [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br/>
+Free course
+
+* [Master Intermediate Grammar](https://es.coursera.org/specializations/intermediate-grammar) <br/>
+Free course
