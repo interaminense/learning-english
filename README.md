@@ -46,5 +46,22 @@ Perfect English Grammar is one of the most reliable grammar website. It content 
 * [British Council](https://learnenglish.britishcouncil.org/en/quick-grammar) <br/>
 The British Council has a long tradition of helping people around the world learn English, and their website contains everything from lessons, grammar explanations, and a glossary to games and apps. It’s an excellent resource for English language learners of all proficiency levels and from all walks of life.
 
+* [Agenda web](https://agendaweb.org/) <br/>
+Agenda Web.org you will find a lot of exercises of all the subjects of English: grammar, vocabulary, listening, reading, etc. An indispensable resource.
+
+
+##Courses
+
+*[Coursera](https://es.coursera.org/)
+Free curses, section "learn language"
+
+*[Improve your communication skills in English](https://es.coursera.org/specializations/improve-english) <br/>
+Free course
+
+*[Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br/>
+Free course
+
+*[Master Intermediate Grammar](https://es.coursera.org/specializations/intermediate-grammar) <br/>
+Free course
 
 
