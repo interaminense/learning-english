@@ -21,7 +21,7 @@ Lingualeo is a funny way to learn English online.
 * [Typeracer](http://play.typeracer.com) <br/>
 Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
 
-* [Memrise] https://www.memrise.com/ <br>
+* [Memrise](https://www.memrise.com/) <br>
 Addictive, rewarding game, so that you can grow long-term memories of the English vocab.
 
 
