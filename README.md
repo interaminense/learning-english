@@ -83,13 +83,13 @@ VocabSushi is for you to learn vocabulary with real-world, contextual examples f
 * [BBC Learn English](http://www.bbc.co.uk/learningenglish/) <br/>
 On the BBC Learning English website, you can learn grammar, vocabulary, pronunciation, and so on, you can take a test, you can also learn how to teach others English.
 
-* [Babbel] (https://babbel.com/) <br/>
+* [Babbel](https://babbel.com/) <br/>
 They also have an app available, all vocab can be practiced with pics and pronounciation is also available for each word.
 
-* [Coursera] (https://www.coursera.org/browse/language-learning/learning-english?languages=en) <br/>
+* [Coursera](https://www.coursera.org/browse/language-learning/learning-english?languages=en) <br/>
 They offer many courses on different levels. The courses are created by teachers at different (mostly) American universities.  
 
-* [Tandem] (https://www.tandem.net/learn-english-online/) <br/>
+* [Tandem](https://www.tandem.net/learn-english-online/) <br/>
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
 
 ## Translators
