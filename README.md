@@ -19,6 +19,10 @@ Lingualeo is a funny way to learn English online.
 * [Typeracer](http://play.typeracer.com) <br/>
 Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
 
+* [Memrise] https://www.memrise.com/ <br>
+Addictive, rewarding game, so that you can grow long-term memories of the English vocab.
+
+
 ## E-Books
 
 * [English E-books](http://english-e-books.net/) <br/>
@@ -33,6 +37,9 @@ YouTube channel of a native american giving English tips.
 
 * [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
+
+* [Learn English by Story] (https://www.youtube.com/watch?v=RyzXyddkNag) <br/>
+Classic stories, with simplified grammar and vocabulary. You can follow the tapescript as the story goes along, so you can also learn the pronounciation.
 
 ## Chrome Extensions
 
@@ -68,3 +75,11 @@ VocabSushi is for you to learn vocabulary with real-world, contextual examples f
 * [BBC Learn English](http://www.bbc.co.uk/learningenglish/) <br/>
 On the BBC Learning English website, you can learn grammar, vocabulary, pronunciation, and so on, you can take a test, you can also learn how to teach others English.
 
+* [Babbel] (https://babbel.com/) <br/>
+They also have an app available, all vocab can be practiced with pics and pronounciation is also available for each word.
+
+* [Coursera] (https://www.coursera.org/browse/language-learning/learning-english?languages=en) <br/>
+They offer many courses on different levels. The courses are created by teachers at different (mostly) American universities.  
+
+* [Tandem] (https://www.tandem.net/learn-english-online/) <br/>
+They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
