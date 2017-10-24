@@ -7,6 +7,8 @@ Useful links that will help me (and probably you) to learn English through the I
 * [Videos](#videos)
 * [Chrome Extensions](#chrome-extensions)
 * [Blogs and Website](#blogs-and-website)
+* [Courses](#courses)
+* [Translators](#translators)
 
 ## Games
 
@@ -50,6 +52,9 @@ Perfect English Grammar is one of the most reliable grammar website. It content 
 * [British Council](https://learnenglish.britishcouncil.org/en/quick-grammar) <br/>
 The British Council has a long tradition of helping people around the world learn English, and their website contains everything from lessons, grammar explanations, and a glossary to games and apps. It’s an excellent resource for English language learners of all proficiency levels and from all walks of life.
 
+* [Agenda web](https://agendaweb.org/) <br/>
+Agenda Web.org you will find a lot of exercises of all the subjects of English: grammar, vocabulary, listening, reading, etc. An indispensable resource.
+
 * [Ello](http://www.elllo.org/) <br/>
 Elllo focuses on your English listening skill. You can listen to speakers from all over the world for different topics, such as sports, travels, games, and so on. There is related text script under the audio player. You can also listen to some nice English songs or watch some videos.
 
@@ -71,3 +76,20 @@ On the BBC Learning English website, you can learn grammar, vocabulary, pronunci
 ## Translators
 
 * [DeepL](https://www.deepl.com/)
+
+* [Babelfish: Translator + Forum](https://www.babelfish.com/) <br/>
+Allows easy translations. Forum allows to disuss for sayings.
+
+## Courses
+
+*[Coursera](https://es.coursera.org/)
+Free curses, section "learn language"
+
+*[Improve your communication skills in English](https://es.coursera.org/specializations/improve-english) <br/>
+Free course
+
+*[Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br/>
+Free course
+
+*[Master Intermediate Grammar](https://es.coursera.org/specializations/intermediate-grammar) <br/>
+Free course
