@@ -55,6 +55,8 @@ They also have an app. Find a tandem partner. It is way more fun, you can learn 
 
 * [Grammarly](https://www.grammarly.com/) <br/>
 Your writing, at its best. Grammarly makes sure everything you type is clear, effective, and mistake-free.
+* [Google Dictionary (by Google)]
+You can double-click any word to view its definition in a small pop-up bubbl and view the complete definition of any word or phrase using the toolbar dictionary.
 
 ## Courses
 
