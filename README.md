@@ -48,9 +48,6 @@ Perfect English Grammar is one of the most reliable grammar website. It content 
 * [Tandem](https://www.tandem.net/learn-english-online/) <br/>
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
 
-* [VocabSushi](http://www.vocabsushi.com/) <br/>
-VocabSushi is for you to learn vocabulary with real-world, contextual examples found in the daily news. You pick up a vocab word, understand its means, read the sentence samples, listen to the speakers, then you can take a test and check if you have learned that word.
-
 ## Chrome Extensions
 
 * [Grammarly](https://www.grammarly.com/) <br/>
@@ -100,7 +97,10 @@ Allows easy translations. Forum allows to disuss for sayings.
 
 ## Videos
 
-* [Learn English by Story] (https://www.youtube.com/watch?v=RyzXyddkNag) <br/>
+* [Crash Course Youtube Channel](https://www.youtube.com/user/crashcourse) <br/>
+This channel not only has incredibly educational videos but they are easy to digest and helpful as a next step for learning english in a more complex set of situations.
+
+* [Learn English by Story](https://www.youtube.com/watch?v=RyzXyddkNag) <br/>
 Classic stories, with simplified grammar and vocabulary. You can follow the tapescript as the story goes along, so you can also learn the pronounciation.
 
 * [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) <br/>
@@ -109,6 +109,8 @@ Are you ready to have a lot of fun learning real life English with "Learn Englis
 * [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
+* [Mental_Floss episode on English Grammar](https://youtu.be/QEBOYOlROU8) <br/>
+a quick and easy to understand breakdown of some english grammar.
+
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) <br/>
 YouTube channel of a native american giving English tips.
-
