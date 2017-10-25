@@ -31,7 +31,7 @@ For every language you choose to learn, Busuu provides a few courses, including 
 They offer many courses on different levels. The courses are created by teachers at different (mostly) American universities.  
 
 * [Ello](http://www.elllo.org/) <br/>
-Elllo focuses on your English listening skill. You can listen to speakers from all over the world for different topics, such as sports, travels, games, and so on. There is related text script under the audio player. You can also listen to some nice English songs or watch some videos.
+Ello focuses on your English listening skill. You can listen to speakers from all over the world for different topics, such as sports, travels, games, and so on. There is related text script under the audio player. You can also listen to some nice English songs or watch some videos.
 
 * [Fun Easy English](http://funeasyenglish.com/) <br/>
 Fun Easy English mainly focuses on the basic English knowledge and teaching tips, its courses include pronunciation, grammar, idioms, slang, writing, tests and much more. Most of those courses are launched in Video format, in addition with text scripts and pictures.
@@ -61,8 +61,8 @@ Your writing, at its best. Grammarly makes sure everything you type is clear, ef
 * [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br/>
 Free course
 
-* [Coursera](https://es.coursera.org/)
-Free curses, section "learn language"
+* [Coursera](https://es.coursera.org/) <br/>
+Free courses, section "learn language"
 
 * [Improve your communication skills in English](https://es.coursera.org/specializations/improve-english) <br/>
 Free course
@@ -90,7 +90,6 @@ Addictive, rewarding game, so that you can grow long-term memories of the Englis
 
 * [Typeracer](http://play.typeracer.com) <br/>
 Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
-
 
 ## Translators
 
