@@ -91,6 +91,9 @@ Addictive, rewarding game, so that you can grow long-term memories of the Englis
 * [Typeracer](http://play.typeracer.com) <br/>
 Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
 
+* [Kahoot](https://kahoot.com) <br/>
+"Create a fun learning game in minutes – we call these ‘kahoots’. You can make a series of multiple choice questions or try our new game"
+
 ## Translators
 
 * [Babelfish: Translator + Forum](https://www.babelfish.com/) <br/>
