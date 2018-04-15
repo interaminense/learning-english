@@ -51,6 +51,9 @@ Perfect English Grammar is one of the most reliable grammar website. It content 
 * [Tandem](https://www.tandem.net/learn-english-online/) <br/>
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
 
+* [Speak24](http://speaking24.com/) <br/>
+An Instant Message repository with English learners from different countries. The idea is to find people for practising conversation.
+
 ## Chrome Extensions
 
 * [Grammarly](https://www.grammarly.com/) <br/>
