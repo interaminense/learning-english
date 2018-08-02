@@ -12,7 +12,7 @@ Useful links that will help me (and probably you) to learn English through the I
 
 ## Blogs and Website
 
-* [Agenda web](https://agendaweb.org/) <br/>
+* [Agenda web](https://agendaweb.org/) 🇧🇷→🇬🇧<br/>
 Agenda Web.org you will find a lot of exercises of all the subjects of English: grammar, vocabulary, listening, reading, etc. An indispensable resource.
 
 * [Babbel](https://babbel.com/) <br/>
@@ -75,7 +75,7 @@ Free course
 
 ## E-Books
 
-* [Como aprender Inglês o guia definitivo](http://www.mairovergara.com/adw-ebook-single-search/?utm_source=adwords&utm_campaign=adw-ebook&utm_medium=search&utm_term=%22como%20aprender%20ingles%20o%20guia%20definitivo%22&gclid=EAIaIQobChMIufmbrPqh1QIVAwaRCh1YTA-YEAAYASAAEgJDhvD_BwE#hero)
+* [Como aprender Inglês o guia definitivo](http://www.mairovergara.com/adw-ebook-single-search/?utm_source=adwords&utm_campaign=adw-ebook&utm_medium=search&utm_term=%22como%20aprender%20ingles%20o%20guia%20definitivo%22&gclid=EAIaIQobChMIufmbrPqh1QIVAwaRCh1YTA-YEAAYASAAEgJDhvD_BwE#hero) 🇧🇷→🇬🇧
 
 * [English E-books](http://english-e-books.net/) <br/>
 Download or read English books online for free, categorized by levels (elementary, pre-intermediate, intermediate, advanced...)
@@ -115,11 +115,11 @@ Classic stories, with simplified grammar and vocabulary. You can follow the tape
 * [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) <br/>
 Are you ready to have a lot of fun learning real life English with "Learn English with TV Series?"
 
-* [Mairo Vergara](https://www.youtube.com/user/MairoVergara) <br/>
+* [Mairo Vergara](https://www.youtube.com/user/MairoVergara) 🇧🇷→🇬🇧<br/>
 Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
 * [Mental_Floss episode on English Grammar](https://youtu.be/QEBOYOlROU8) <br/>
 a quick and easy to understand breakdown of some english grammar.
 
-* [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) <br/>
+* [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) 🇧🇷→🇬🇧<br/>
 YouTube channel of a native american giving English tips.
