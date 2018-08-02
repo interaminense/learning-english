@@ -1,5 +1,8 @@
 
 # Learning English :uk:
+
+<img src="https://media.giphy.com/media/vrcxO2t1CLV0k/giphy.gif" />
+
 Useful links that will help me (and probably you) to learn English through the Internet.
 
 * [Blogs and Website](#blogs-and-website)
