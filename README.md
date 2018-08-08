@@ -107,6 +107,9 @@ Allows easy translations. Forum allows to disuss for sayings.
 
 * [DeepL](https://www.deepl.com/)
 
+* [Linguee](https://www.linguee.com.br/) 🇧🇷→🇬🇧 <br/>
+Find translations engineers use for technical parts. Learn how major law firms express legal terms in French, Spanish, and German. Whatever your field, always find the expert's translation.
+
 ## Videos
 
 * [Crash Course Youtube Channel](https://www.youtube.com/user/crashcourse) <br/>
