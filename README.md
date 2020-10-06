@@ -10,6 +10,7 @@ Useful links that will help me (and probably you) to learn English through the I
 * [Courses](#courses)
 * [E-Books](#e-books)
 * [Games](#games)
+* [Podcasts](#podcasts)
 * [Translators](#translators)
 * [Videos](#videos)
 
@@ -99,6 +100,14 @@ Improve your spelling and typing speed, you can even race against yourself and o
 
 * [Kahoot](https://kahoot.com) <br/>
 Create a fun learning game in minutes – we call these **kahoots**. You can make a series of multiple choice questions or try our new game
+
+## Podcasts
+
+* [Duolingo](https://www.duolingo.com/) <br/>
+A spinoff off the popular app, specifically for Spanish speakers. Learn English by listening to fun and interesting stories. 
+
+* [Coffee Break English](https://radiolingua.com/coffee-break-english/) <br/>
+Learn to speak English in the same time it takes you to enjoy a cup of coffee each morning. 
 
 ## Translators
 
