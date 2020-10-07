@@ -62,6 +62,9 @@ An Instant Message repository with English learners from different countries. Th
 * [Grammarly](https://www.grammarly.com/) <br/>
 Your writing, at its best. Grammarly makes sure everything you type is clear, effective, and mistake-free.
 
+* [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) <br/>
+Extension for word definitions,while browsing through web.
+
 ## Courses
 
 * [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br/>
