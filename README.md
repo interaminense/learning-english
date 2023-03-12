@@ -1,4 +1,6 @@
 
+<div align='center'>🌟🌟🌟 100 stars, thank you!! 🌟🌟🌟</div>
+
 # Learning English :uk:
 
 <img src="https://media.giphy.com/media/vrcxO2t1CLV0k/giphy.gif" />
