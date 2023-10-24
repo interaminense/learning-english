@@ -75,6 +75,11 @@ An Instant Message repository with English learners from different countries. Th
 * [Tandem](https://www.tandem.net/learn-english-online/) <br />
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
 
+* [English Grammar Explanations](https://www.englisch-hilfen.de/en/grammar_list/alle.htm) <br />
+A website that provides the basics of grammar all the way up to higher grammar.
+
+
+
 ## Chrome Extensions
 
 * [Grammarly](https://www.grammarly.com/) <br />
@@ -127,7 +132,10 @@ Create a fun learning game in minutes – we call these **kahoots**. You can mak
 A spinoff off the popular app, specifically for Spanish speakers. Learn English by listening to fun and interesting stories. 
 
 * [Coffee Break English](https://radiolingua.com/coffee-break-english/) <br />
-Learn to speak English in the same time it takes you to enjoy a cup of coffee each morning. 
+Learn to speak English in the same time it takes you to enjoy a cup of coffee each morning.
+
+* [Real life English](https://reallifeglobal.com/) <br />
+Speak and Learn Confident, Natural English Anytime, Anywhere. 
 
 ## Translators
 
