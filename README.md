@@ -86,6 +86,9 @@ Your writing is at its best. Grammarly makes sure everything you type is clear, 
 * [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) <br />
 View definitions easily as you browse the web.
 
+* [Pact English](https://chromewebstore.google.com/detail/pact-english/cajdgbcnafdfgmnignadekjeofblcmio?hl=en&pli=1) <br />
+It helps users practice English while watching Youtube videos by turning some subtitles into dictation or fill-in-the-blank practices.
+
 ## Courses
 
 * [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br />
