@@ -167,3 +167,9 @@ a quick and easy-to-understand breakdown of some English grammar.
 
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) 🇧🇷→🇬🇧<br />
 YouTube channel of a native American giving English tips.
+
+* [EnglishClass101.com](https://www.youtube.com/@EnglishClass101)<br />
+Is an online English language learning website. With us you'll learn to speak, read, and write English. You'll have fun learning with listeners around the world. Get ready to "wow" your friends, family, teachers and colleagues with the English you'll learn with us!
+
+* [Darwinglish](https://www.youtube.com/c/Ingl%C3%A9sparaDevs)<br />
+Youtube channel to learn English to developers
