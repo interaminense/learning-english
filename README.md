@@ -13,6 +13,7 @@ Useful links that will help me (and probably you) to learn English through the I
 * [E-Books](#e-books)
 * [Games](#games)
 * [Podcasts](#podcasts)
+* [Radios](#radios)
 * [Translators](#translators)
 * [Videos](#videos)
 
@@ -115,6 +116,9 @@ Download or read English books online for free, categorized by levels (elementar
 * [Duolingo](https://www.duolingo.com/) <br />
 Learning with Duolingo is fun and addictive. Earn points for correct answers, race against the clock, and level up.
 
+* [Gliglish](https://gliglish.com/) <br />
+Learn languages by speaking with AI 
+
 * [Lingualeo](https://lingualeo.com/) <br />
 Lingualeo is a funny way to learn English online.
 
@@ -132,11 +136,22 @@ A spinoff of the popular app, specifically for Spanish speakers. Learn English b
 
 ## Podcasts
 
+* [Bloomberg Technology](https://www.bloomberg.com/podcasts/series/bloomberg-technology) <br />
+This is a podcast about technology and business. The hosts discuss the latest news, trends, and industry analysis in the tech sector. 
+
 * [Coffee Break English](https://radiolingua.com/coffee-break-english/) <br />
 Learn to speak English at the same time it takes you to enjoy a cup of coffee each morning.
 
 * [Real life English](https://reallifeglobal.com/) <br />
 Speak and Learn Confident, Natural English Anytime, Anywhere. 
+
+## Radios
+
+* [BBC World Service News UK](https://tunein.com/radio/BBC-World-Service-News-s24948/) <br />
+Tune in to news from the UK and around the globe.
+
+* [WNYC-FM US](https://tunein.com/radio/WNYC-FM-939-s21606/?utm_content=s21606&utm_medium=referral&utm_source=tiEmbed) <br />
+Tune in to news from the US and around the globe. 
 
 ## Translators
 
