@@ -168,6 +168,15 @@ Find translations engineers use for technical parts. Learn how major law firms e
 * [Crash Course Youtube Channel](https://www.youtube.com/user/crashcourse) <br />
 This channel not only has incredibly educational videos but they are easy to digest and helpful as a next step for learning English in a more complex set of situations.
 
+* [Darwinglish](https://www.youtube.com/c/Ingl%C3%A9sparaDevs)<br />
+Youtube channel to learn English to developers
+
+* [EnglishClass101.com](https://www.youtube.com/@EnglishClass101)<br />
+Is an online English language learning website. With us you'll learn to speak, read, and write English. You'll have fun learning with listeners around the world. Get ready to "wow" your friends, family, teachers and colleagues with the English you'll learn with us!
+
+* [English in Brazil by Carina Fragozo](https://www.youtube.com/@CarinaFragozo) <br />
+Channel focused in teaching English to brazilians in a simple and fun way.
+
 * [Learn English by Story](https://www.youtube.com/watch?v=RyzXyddkNag) <br />
 Classic stories, with simplified grammar and vocabulary. You can follow the tapescript as the story goes along, so you can also learn the pronunciation.
 
@@ -182,9 +191,3 @@ a quick and easy-to-understand breakdown of some English grammar.
 
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) 🇧🇷→🇬🇧<br />
 YouTube channel of a native American giving English tips.
-
-* [EnglishClass101.com](https://www.youtube.com/@EnglishClass101)<br />
-Is an online English language learning website. With us you'll learn to speak, read, and write English. You'll have fun learning with listeners around the world. Get ready to "wow" your friends, family, teachers and colleagues with the English you'll learn with us!
-
-* [Darwinglish](https://www.youtube.com/c/Ingl%C3%A9sparaDevs)<br />
-Youtube channel to learn English to developers
