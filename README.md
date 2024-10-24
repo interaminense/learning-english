@@ -46,14 +46,17 @@ EnglishCentral is a blog offering videos of personalized English lessons based o
 * [English Experts](https://www.englishexperts.com.br/) 🇧🇷→🇬🇧 <br />
 English Experts is a Portuguese language blog offering a variety of resources to help students learn English. The blog offers grammar, vocabulary, and pronunciation tips, as well as free exercises, tests, and lessons.
 
+* [English Grammar Explanations](https://www.englisch-hilfen.de/en/grammar_list/alle.htm) <br />
+A website that provides the basics of grammar all the way up to higher grammar.
+
 * [ESL Library](https://ellii.com/blog) <br />
 ESL Library is a blog that provides resources for English teachers and students, including activities, lesson plans, videos, and articles on grammar, vocabulary, and pronunciation. The blog also offers tips on how to teach and learn English effectively.
 
-* [Forvo](https://forvo.com/) <br />
-The largest pronunciation dictionary in the world. All the words in all the languages pronounced by native speakers
-
 * [FluentU](https://www.fluentu.com/blog/) <br />
 FluentU is a blog that offers a unique approach to learning English through authentic English videos with interactive captions. The blog also offers grammar, vocabulary, and pronunciation tips, as well as lessons on English culture and lifestyle.
+
+* [Forvo](https://forvo.com/) <br />
+The largest pronunciation dictionary in the world. All the words in all the languages pronounced by native speakers
 
 * [Fun Easy English](http://funeasyenglish.com/) <br />
 Fun Easy English mainly focuses on basic English knowledge and teaching tips, its courses include pronunciation, grammar, idioms, slang, writing, tests, and much more. Most of those courses are launched in Video format, in addition to text scripts and pictures.
@@ -75,9 +78,6 @@ An Instant Message repository with English learners from different countries. Th
 
 * [Tandem](https://www.tandem.net/learn-english-online/) <br />
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
-
-* [English Grammar Explanations](https://www.englisch-hilfen.de/en/grammar_list/alle.htm) <br />
-A website that provides the basics of grammar all the way up to higher grammar.
 
 ## Chrome Extensions
 
@@ -119,6 +119,9 @@ Learning with Duolingo is fun and addictive. Earn points for correct answers, ra
 * [Gliglish](https://gliglish.com/) <br />
 Learn languages by speaking with AI 
 
+* [Kahoot](https://kahoot.com) <br />
+Create a fun learning game in minutes – we call these **kahoots**. You can make a series of multiple-choice questions or try our new game
+
 * [Lingualeo](https://lingualeo.com/) <br />
 Lingualeo is a funny way to learn English online.
 
@@ -127,12 +130,6 @@ Addictive, rewarding game, so that you can grow long-term memories of the Englis
 
 * [Typeracer](http://play.typeracer.com) <br />
 Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
-
-* [Kahoot](https://kahoot.com) <br />
-Create a fun learning game in minutes – we call these **kahoots**. You can make a series of multiple-choice questions or try our new game
-
-* [Duolingo](https://www.duolingo.com/) <br />
-A spinoff of the popular app, specifically for Spanish speakers. Learn English by listening to fun and interesting stories. 
 
 ## Podcasts
 
