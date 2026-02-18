@@ -116,6 +116,9 @@ Download or read English books online for free, categorized by levels (elementar
 * [Duolingo](https://www.duolingo.com/) <br />
 Learning with Duolingo is fun and addictive. Earn points for correct answers, race against the clock, and level up.
 
+* [English Grammar App](https://english-grammar.app/) <br />
+A free interactive platform to practice English grammar (A1–C1) with instant feedback and detailed explanations. Currently in beta.
+
 * [Gliglish](https://gliglish.com/) <br />
 Learn languages by speaking with AI 
 
