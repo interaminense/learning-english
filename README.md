@@ -134,6 +134,9 @@ Addictive, rewarding game, so that you can grow long-term memories of the Englis
 * [Typeracer](http://play.typeracer.com) <br />
 Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
 
+* [Ludyrics](https://ludyrics.com/en) <br />
+Ludyrics is a lyrics-based game platform that offers lyric dictation and word-guessing games alongside song videos.
+
 ## Podcasts
 
 * [Bloomberg Technology](https://www.bloomberg.com/podcasts/series/bloomberg-technology) <br />
