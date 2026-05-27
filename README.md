@@ -52,6 +52,9 @@ ESL Library is a blog that provides resources for English teachers and students,
 * [FluentU](https://www.fluentu.com/blog/) <br />
 FluentU is a blog that offers a unique approach to learning English through authentic English videos with interactive captions. The blog also offers grammar, vocabulary, and pronunciation tips, as well as lessons on English culture and lifestyle.
 
+* [TubeVocab](https://www.tubevocab.com/) <br />
+TubeVocab helps you build English vocabulary from YouTube videos. Click any word in the interactive subtitles for translations, pronunciation, and AI-generated flashcards with spaced repetition. UI available in 10 languages.
+
 * [Forvo](https://forvo.com/) <br />
 The largest pronunciation dictionary in the world. All the words in all the languages pronounced by native speakers
 
