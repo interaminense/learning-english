@@ -108,6 +108,9 @@ Free course
 
 * [Como aprender Inglês o guia definitivo](http://www.mairovergara.com/adw-ebook-single-search/?utm_source=adwords&utm_campaign=adw-ebook&utm_medium=search&utm_term=%22como%20aprender%20ingles%20o%20guia%20definitivo%22&gclid=EAIaIQobChMIufmbrPqh1QIVAwaRCh1YTA-YEAAYASAAEgJDhvD_BwE#hero) 🇧🇷→🇬🇧
 
+* [EasyBookTranslation](https://easybooktranslation.com) <br />
+Upload an English EPUB and get back a bilingual edition with a translation in your language under every paragraph, keeping the original layout, images and chapters. Paid ($2.99 per book or $9.90/month).
+
 * [English E-books](http://english-e-books.net/) <br />
 Download or read English books online for free, categorized by levels (elementary, pre-intermediate, intermediate, advanced...)
 
