@@ -90,6 +90,9 @@ View definitions easily as you browse the web.
 * [Pact English](https://chromewebstore.google.com/detail/pact-english/cajdgbcnafdfgmnignadekjeofblcmio?hl=en&pli=1) <br />
 It helps users practice English while watching Youtube videos by turning some subtitles into dictation or fill-in-the-blank practices.
 
+* [YouTongue](https://chromewebstore.google.com/detail/obkcjlpnldfnlkahhkcjedbapohbamog) <br />
+Select any English word or phrase on a page and hear it said by real people in short YouTube clips, in the accent you choose (US, UK, Australian, New Zealand). The website, [youtongue.me](https://youtongue.me), adds a free daily dictation from real speech.
+
 ## Courses
 
 * [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br />
