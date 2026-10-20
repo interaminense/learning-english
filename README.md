@@ -93,6 +93,9 @@ It helps users practice English while watching Youtube videos by turning some su
 * [YouTongue](https://chromewebstore.google.com/detail/obkcjlpnldfnlkahhkcjedbapohbamog) <br />
 Select any English word or phrase on a page and hear it said by real people in short YouTube clips, in the accent you choose (US, UK, Australian, New Zealand). The website, [youtongue.me](https://youtongue.me), adds a free daily dictation from real speech.
 
+* [Yap Voice Typing](https://chromewebstore.google.com/detail/yap-voice-typing-speech-t/lapfpgdpnhpahiiipbijfbkonnlfnbgf) <br />
+Free voice typing for any text box, also on Firefox: press Alt+Shift+Y, speak English, and your words appear as text, a simple way to practice speaking and see whether you were understood. Speech is recognized inside the browser, so the audio never leaves your computer.
+
 ## Courses
 
 * [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br />
