@@ -16,6 +16,9 @@ Useful and *organic (created and reviewed by humans)* links that will help me (a
 
 ## Blogs and Website
 
+* [Accent Test](https://accent-test.com/) <br />
+Read an English passage aloud and receive AI-generated feedback on accent patterns and pronunciation.
+
 * [Agenda web](https://agendaweb.org/) 🇧🇷→🇬🇧 <br />
 Agenda Web.org you will find a lot of exercises in all the subjects of English: grammar, vocabulary, listening, reading, etc. An indispensable resource.
 
