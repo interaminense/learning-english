@@ -123,6 +123,9 @@ Upload an English EPUB and get back a bilingual edition with a translation in yo
 * [English E-books](http://english-e-books.net/) <br />
 Download or read English books online for free, categorized by levels (elementary, pre-intermediate, intermediate, advanced...)
 
+* [ImagineYourBook](https://www.imagineyourbook.com/) <br />
+Describe your level and a topic you enjoy, and it writes a whole English reader for you (from about 5,000 words), exported as EPUB or Word for your e-reader. The text is AI-generated, so treat it as reading practice rather than a reference. Paid ($29.99/month) after a $0 7-day trial that needs a card.
+
 ## Games
 
 * [Duolingo](https://www.duolingo.com/) <br />
