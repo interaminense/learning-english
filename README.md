@@ -125,6 +125,9 @@ Download or read English books online for free, categorized by levels (elementar
 
 ## Games
 
+* [Couscous: Secret Word](https://couscous.ai/) <br />
+A word-guessing game: ask yes-or-no questions in English until you name the secret word. A language model judges each question and answers YES, NO or I DON'T KNOW.
+
 * [Duolingo](https://www.duolingo.com/) <br />
 Learning with Duolingo is fun and addictive. Earn points for correct answers, race against the clock, and level up.
 
