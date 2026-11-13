@@ -73,6 +73,9 @@ Grammar Girl provides short, friendly tips to improve your writing. Covering the
 * [Lang-8](http://lang-8.com/) <br />
 Lang-8 focuses on writing in a foreign language. If you write in the language that you are learning, then native speakers will correct your writing, and you can also help others learn your native language by correcting their writing.
 
+* [Linglass](https://linglass.app/) <br />
+Linglass is a browser extension and mobile app for learning English from YouTube, Netflix, Disney+ and other streaming sites. It shows English subtitles together with a translation into your language; click any word to see its meaning in that sentence and hear it pronounced, then save it as a flashcard for spaced repetition. Free to use, with a daily limit on translations.
+
 * [Perfect English Grammar](http://www.perfect-english-grammar.com/) <br />
 Perfect English Grammar is one of the most reliable grammar websites. It contains notes and plenty of exercises related to them.
 
