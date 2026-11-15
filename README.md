@@ -102,6 +102,9 @@ Select any English word or phrase on a page and hear it said by real people in s
 * [Yap Voice Typing](https://chromewebstore.google.com/detail/yap-voice-typing-speech-t/lapfpgdpnhpahiiipbijfbkonnlfnbgf) <br />
 Free voice typing for any text box, also on Firefox: press Alt+Shift+Y, speak English, and your words appear as text, a simple way to practice speaking and see whether you were understood. Speech is recognized inside the browser, so the audio never leaves your computer.
 
+* [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/bbappnicmjmiliipjcmciaffiglmoekd) <br />
+Shows the transcript of a YouTube video with timestamps while you watch, so you can read along as you listen, and ask AI to summarize the video or explain a phrase. Also on Firefox and Edge.
+
 ## Courses
 
 * [Acquire Business Communication Skills in English](https://es.coursera.org/specializations/ingles-empresarial) <br />
