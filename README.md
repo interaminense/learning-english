@@ -184,6 +184,9 @@ Allows easy translations. The forum allows discussion for sayings.
 
 * [DeepL](https://www.deepl.com/)
 
+* [HumanPen](https://humanpen.net/translate) <br />
+Translates uploaded documents into English and 11 other target languages. Signup includes a one-time grant of 100 credits; document processing uses credits.
+
 * [Linguee](https://www.linguee.com.br/) 🇧🇷→🇬🇧 <br />
 Find translations engineers use for technical parts. Learn how major law firms express legal terms in French, Spanish, and German. Whatever your field, always find the expert's translation.
 
