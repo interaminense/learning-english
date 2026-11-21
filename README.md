@@ -85,6 +85,9 @@ An Instant Message repository with English learners from different countries. Th
 * [Tandem](https://www.tandem.net/learn-english-online/) <br />
 They also have an app. Find a tandem partner. It is way more fun, you can learn from a native speaker, plus, you can also meet new people and make friends.
 
+* [WinkLingo](https://winklingo.com/en) <br />
+Search over 200M spoken lines from real movies and YouTube videos by phrase, idiom, or semantic meaning across dozens of native languages, with dual subtitles, usage breakdowns, and instant clip playback.
+
 ## Chrome Extensions
 
 * [Grammarly](https://www.grammarly.com/) <br />
